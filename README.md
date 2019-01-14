@@ -15,3 +15,6 @@ python setuy.py build
 ```
 ./scripts/question_A 1 2 3 4
 ```
+
+## Questions
+I don't understand question C. Please provide some complete specifications and some examples.
