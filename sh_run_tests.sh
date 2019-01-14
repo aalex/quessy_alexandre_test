@@ -4,4 +4,5 @@
 # trial quessyalexandre
 
 PYTHONPATH=$PWD trial quessyalexandre/test/test_linesoverlap.py
+PYTHONPATH=$PWD trial quessyalexandre/test/test_versionnumber.py
 
