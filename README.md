@@ -1,4 +1,4 @@
-# Alexandre Quessy's technical tests for Ormuco
+# Alexandre Quessy's technical tests
 
 ## Installing Twisted
 sudo easy_install twisted
