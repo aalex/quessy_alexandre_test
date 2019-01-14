@@ -1,14 +1,17 @@
 # Alexandre Quessy's technical tests for Ormuco
 
 ## Installing Twisted
-### On macOS
 sudo easy_install twisted
 
-## Installation instructions
-
-
+## Setup and build
 ```
 python setuy.py build
-trial .
 ```
 
+## Run unit tests
+./sh_run_tests.sh
+
+## Run the exercice A
+```
+./scripts/question_A 1 2 3 4
+```
